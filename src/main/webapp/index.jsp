@@ -11,6 +11,7 @@
     <title>$Title$</title>
   </head>
   <body>
+  <%--<%= %>--%>
   <%= new java.util.Date() %>
   <%= request.getAttribute("list") %>
   </body>
